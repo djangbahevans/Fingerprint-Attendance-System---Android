@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Clock In</string>
+    <string name="view_attendance">View Attendance</string>
+    <string name="delete_employee">Delete Employee</string>
+    <string name="send_backlog">Send backlog</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="delete">Delete</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="department">Department</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="current_time_display">Current set time is %d:%d</string>
+    <string name="name_display">%s %s</string>
+    <string name="time_display">Last logged: %s at %s</string>
+    <string name="connect_to_device">Connect to device</string>
+    <string name="ssid">SSID</string>
+    <string name="password">Password</string>
+    <string name="configure_wifi_details">Configure WiFI Details</string>
+</resources>
